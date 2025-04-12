@@ -17,10 +17,11 @@ A powerful Python utility for compressing PDF files while preserving DPI (dots p
 ## Requirements
 
 ### Dependencies
+1. Python Modules
 ```bash
 pip install PyMuPDF tqdm psutil
 ```
-``Ghostscript``
+2. **[GhostScript](https://ghostscript.com/releases/gsdnld.html)**
 
 ### System Requirements
 - Python 3.x
