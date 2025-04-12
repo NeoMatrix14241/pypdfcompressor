@@ -1,5 +1,7 @@
 # PyPDFCompressor
 
+Ang malupit na compressor ng PDF with lossless quality orrayt
+
 A powerful Python utility for compressing PDF files while preserving DPI (dots per inch) and OCR (Optical Character Recognition) layers. This tool offers both single-file and batch processing capabilities with multi-threading support.
 
 ## Features
